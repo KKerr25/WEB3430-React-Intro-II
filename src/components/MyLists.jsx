@@ -1,4 +1,4 @@
-import "./mylists.css";
+import "./MyLists.css";
 
 function MyList() {
   const sports = ["Soccer", "Basketball", "Baseball", "Football"];
