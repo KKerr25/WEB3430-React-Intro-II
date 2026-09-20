@@ -1,0 +1,29 @@
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.link {
+  color: white;
+  text-decoration: underline;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.link:hover {
+  color: rgb(182, 182, 182);
+  cursor: pointer;
+}
+
+.link:active {
+  color: rgb(124, 124, 124);
+}
